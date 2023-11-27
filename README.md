@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm a graphic designer & [TALL-stack](https://tallstack.dev/) developer. I've great passion for branding. 
+
+- 🌱 I’m currently learning [Astro](https://astro.build/)
+- 📫 How to reach me: [Twitter @djl997](https://twitter.com/djl997)
+
 <!--
 **djl997/djl997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
