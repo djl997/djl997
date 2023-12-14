@@ -3,6 +3,7 @@
 I'm a graphic designer & [TALL-stack](https://tallstack.dev/) developer. I've great passion for branding. 
 
 - 🌱 I’m currently learning [Astro](https://astro.build/)
+- 💟 In business terms 'in love' with TALL-stack
 - 📫 How to reach me: [Twitter @djl997](https://twitter.com/djl997)
 
 <!--
