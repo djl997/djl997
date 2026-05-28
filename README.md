@@ -1,9 +1,28 @@
-### Hi there 👋
+Hi there 👋,
 
-I'm a graphic designer & [TALL-stack](https://tallstack.dev/) developer. I've great passion for branding. 
+I'm a [TALL-stack](https://tallstack.dev/) developer with great passion for design and branding. 
 
-- 💟 In business terms 'in love' with TALL-stack
-- 📫 How to reach me: [Twitter @djl997](https://twitter.com/djl997)
+## My go-to stack
+- TailwindCSS
+- AlpineJS
+- Laravel
+- Livewire
+- Filament
+
+## What I actually do
+
+I don't try to be everything for everyone. My work lives usually here:
+1. Interal tools & business software
+2. APIs & integrations
+3. Design (more a hobby)
+
+## In my free-time I'm...
+
+- researching applicability of local hosted AI in small business production environments
+- building a RAG (Retrieval-Augmented Generation) 
+
+## 📫 How to reach me
+- [X @djl997](https://x.com/djl997)
 
 <!--
 **djl997/djl997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
